@@ -1,8 +1,7 @@
 package application;
 
-import model.Produto;
+import entities.Produto;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
